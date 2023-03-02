@@ -19,7 +19,6 @@ Watch the sequence of colors, then click on the same colors in the same order.
 
 ![Desktop View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799896/simon-desktop_ph6xzb.png)
   ![Mobile View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799896/simon-mobile2_barawm.png)
-![Mobile View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799897/simon-instructions_pitwez.png)
 
 ## Technologies Used
 
