@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+    font-size: calc($base-font-size - 2px);
+    line-height: $base-font-ratio;
+    font-family: $base-font-family;
+    overflow-x: hidden;
+    @media (min-width: $padded-break-narrow) {
+        font-size: $base-font-size;
+    }
+}
+
+body {
+    transition: all 0.2s;
+    background: radial-gradient(farthest-corner at 40px -40px, $dark2 -15%, $base-bg-color 55%, $dark2 115%);
+    color: $base-text-color;
+    min-height: 100vh;
+}
+
+#root {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.app-main {
+    flex: 1;
+}
