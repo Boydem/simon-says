@@ -18,7 +18,11 @@ Watch the sequence of colors, then click on the same colors in the same order.
 ## Screenshots
 
 ![Desktop View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799896/simon-desktop_ph6xzb.png)
+<div style="display:flex;">
+  ![Mobile View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799896/simon-mobile2_barawm.png)
 ![Mobile View](https://res.cloudinary.com/dsperrtyj/image/upload/v1677799896/simon-mobile2_barawm.png)
+  
+  <div/>
 
 ## Technologies Used
 
@@ -36,10 +40,10 @@ Follow the instructions below to get started with the game:
 ```git clone https://github.com/Boydem/simon-says```
 
 - #### Install dependencies
-```npm install```
+```npm i```
 
 - #### Start the application
-```ng serve```
+```npm start```
 
 - #### Navigate to http://localhost:4200 in your web browser to view the application
 
